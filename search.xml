@@ -1,46 +1,320 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>test222</title>
-      <link href="/2022/10/16/test222/"/>
-      <url>/2022/10/16/test222/</url>
-      
-        <content type="html"><![CDATA[<p>���Ǻ�<br>hello word</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test11</title>
-      <link href="/2022/10/16/test11/"/>
-      <url>/2022/10/16/test11/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/10/15/hello-world/"/>
-      <url>/2022/10/15/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>CCCC</title>
+    <url>/2022/10/16/CCC/</url>
+    <content><![CDATA[<h5 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h5><p>每个变量都存储了一个值–与变量相关联的信息。</p>
+<h5 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h5><p>1、字符串</p>
+<p>就是一系列字符，用引号（单引号或双引号）括起来的都是字符串。</p>
+<p>2、数字</p>
+<p>整数、浮点数…</p>
+<h5 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h5><p>由一系列按特定顺序排列的元素组成，用方括号【】标识</p>
+<p>其实MySQL有两种来连接方式，一种是通过TCP&#x2F;IP，就是用-h参数指定要连接的mysqlserverI的IP，另一种是套接字socket，在这里就是mysql.sock文件，其作用是程序与mysqlserver处于同一台机器，发起本地连接时可用。例如你无须定义连接host的具体IP地址，只要为空或localhost就可以，即host为localhost,127.0.0.1时自动使用mysql.sock<br>115.199.174.216</p>
+<p>其实MySQL有两种来连接方式，一种是通过TCP&#x2F;IP，就是用-h参数指定要连接的mysqlserverI的IP，另一种是套接字socket，在这里就是mysql.sock文件，其作用是程序与mysqlserver处于同一台机器，发起本地连接时可用。例如你无须定义连接host的具体IP地址，只要为空或localhost就可以，即host为localhost,127.0.0.1时自动使用mysql.sock<br>115.199.174.216</p>
+<p><img src="G:\Users\destiny\Desktop\导航.png" alt="导航.png"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/10/30/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>止</p>
+<h1 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h1><h2 id="测试二下"><a href="#测试二下" class="headerlink" title="测试二下"></a>测试二下</h2><h3 id="测试三下"><a href="#测试三下" class="headerlink" title="测试三下"></a>测试三下</h3><p>大家好，我想测试一下，可以嘛？</p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/10/30/test111/</url>
+    <content><![CDATA[<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><figure class="highlight perl"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span>、n级标题</span><br><span class="line">n个 <span class="comment"># 表示n级标题，打完 # 之后记得加个空格</span></span><br><span class="line"></span><br><span class="line"><span class="number">2</span>、字体变换</span><br><span class="line">标粗：ctrl+B</span><br><span class="line">标斜：ctrl+i</span><br><span class="line">下划线：ctrl+U</span><br><span class="line">高亮：ctrl+<span class="keyword">shift</span>+H</span><br><span class="line">删除线：ctrl+D</span><br><span class="line"></span><br><span class="line"><span class="number">3</span>、代码块</span><br><span class="line">行内代码：ctrl+<span class="string">`代码块：`</span><span class="string">``</span></span><br><span class="line"></span><br><span class="line"><span class="number">4</span>、插入表格</span><br><span class="line">ctrl+<span class="keyword">shift</span>+T</span><br><span class="line"></span><br><span class="line"><span class="number">5</span>、插入图像</span><br><span class="line">ctrl+<span class="keyword">shift</span>+i</span><br><span class="line"></span><br><span class="line"><span class="number">6</span>、超链接</span><br><span class="line">ctrl+L</span><br></pre></td></tr></table></figure>
+
+<h2 id="我是测试"><a href="#我是测试" class="headerlink" title="我是测试"></a>我是测试</h2>]]></content>
+  </entry>
+  <entry>
+    <title>test222</title>
+    <url>/2022/10/16/test222/</url>
+    <content><![CDATA[<p><a href="https://blog.csdn.net/weixin_44245220/article/details/124924297">blog.csdn.net</a></p>
+<h1 id="69����Ϣ-Hexo-Next���ⲩ�͸��Ի�����-֪Ҷ¼�Ĳ���-CSDN����"><a href="#69����Ϣ-Hexo-Next���ⲩ�͸��Ի�����-֪Ҷ¼�Ĳ���-CSDN����" class="headerlink" title="(69����Ϣ) Hexo-Next���ⲩ�͸��Ի�����_֪Ҷ¼�Ĳ���-CSDN����"></a>(69����Ϣ) Hexo-Next���ⲩ�͸��Ի�����_֪Ҷ¼�Ĳ���-CSDN����</h1><p>48-61 ����</p>
+<hr>
+<blockquote>
+<p>Hexo�汾��6.2.0��NextT�汾��7.8.0</p>
+</blockquote>
+<h2 id="һ�����ⰲװ"><a href="#һ�����ⰲװ" class="headerlink" title="һ�����ⰲװ"></a>һ�����ⰲװ</h2><p>��Git Bash��cd��վ���Ŀ¼������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/theme-next/hexo-theme-next themes/next</span><br></pre></td></tr></table></figure>
+
+<p>��վ���Ŀ¼�µ�_config.yml�ļ���landscape�޸�Ϊnext</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">## Themes: https://hexo.io/themes/</span><br><span class="line">theme: next</span><br></pre></td></tr></table></figure>
+
+<h2 id="����ʹ����֪"><a href="#����ʹ����֪" class="headerlink" title="����ʹ����֪"></a>����ʹ����֪</h2><blockquote>
+<p>Hexo��Ŀ¼�µ������ļ�_config.yml�����³���<strong>վ�������ļ�</strong></p>
+<p>Hexo��Ŀ¼&#x2F;theme&#x2F;next�µ������ļ�_config.yml�����³���<strong>���������ļ�</strong></p>
+</blockquote>
+<p><strong>վ�������ļ�</strong>�޸ĺ�һ����Ҫ����ָ�������Ч<br>�������������ļ��޸ĺ�û����Ч��Ҳ�����ȳ��������ָ��</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p><strong>����Ч����������<a href="https://leavesfalling.gitee.io/">�ҵĲ���</a>������</strong></p>
+</blockquote>
+<h2 id="�������Ի�����"><a href="#�������Ի�����" class="headerlink" title="�������Ի�����"></a>�������Ի�����</h2><h3 id="��һ����������"><a href="#��һ����������" class="headerlink" title="��һ����������"></a>��һ����������</h3><h4 id="1-�����޸�"><a href="#1-�����޸�" class="headerlink" title="1. �����޸�"></a>1. �����޸�</h4><p>��<strong>վ�������ļ�</strong>������language������zh-CN</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">language: zh-CN</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-�����л�"><a href="#2-�����л�" class="headerlink" title="2. �����л�"></a>2. �����л�</h4><p>next�����Դ�������ʽ</p>
+<p>��<strong>���������ļ�</strong>������scheme��ѡ���Լ�ϲ������ʽ��ȥ��#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">#scheme: Muse</span><br><span class="line">#scheme: Mist</span><br><span class="line">#scheme: Pisces</span><br><span class="line">scheme: Gemini</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-���������l��޸g��Ƽ���"><a href="#3-���������l��޸g��Ƽ���" class="headerlink" title="3. ���������ļ��޸ģ��Ƽ���"></a>3. ���������ļ��޸ģ��Ƽ���</h4><blockquote>
+<p>Hexo �ںϲ���������ʱ��Hexo �����ļ�<code>_config.yml</code>�е� <code>theme_config</code> ����������ȼ���ߣ������ <code>_config.[theme].yml</code> �ļ��������λ������Ŀ¼�µ� <code>_config.yml</code> �ļ���</p>
+</blockquote>
+<p>��վ���Ŀ¼������_config.next.yml����themes&#x2F;next&#x2F;_config.yml������ݸ��ƽ�ȥ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/3c5649ae5c991e313baa5d6b6c92d2ee.png#pic_center" alt="���������ͼƬ����"></p>
+<h4 id="3-�Զ�����ʽ"><a href="#3-�Զ�����ʽ" class="headerlink" title="3. �Զ�����ʽ"></a>3. �Զ�����ʽ</h4><p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��styleǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  #head: source/_data/head.swig</span><br><span class="line">  #header: source/_data/header.swig</span><br><span class="line">  #sidebar: source/_data/sidebar.swig</span><br><span class="line">  #postMeta: source/_data/post-meta.swig</span><br><span class="line">  #postBodyEnd: source/_data/post-body-end.swig</span><br><span class="line">  #footer: source/_data/footer.swig</span><br><span class="line">  #bodyEnd: source/_data/body-end.swig</span><br><span class="line">  #variable: source/_data/variables.styl</span><br><span class="line">  #mixin: source/_data/mixins.styl</span><br><span class="line">  style: source/_data/styles.styl</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data�����½�styles.styl�����Ļ��ڸ��ļ���������ʽ</p>
+<h4 id="4-��ʽ�޸�ʾ��"><a href="#4-��ʽ�޸�ʾ��" class="headerlink" title="4. ��ʽ�޸�ʾ��"></a>4. ��ʽ�޸�ʾ��</h4><p>��source&#x2F;_data&#x2F;styles.styl��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//��վ����ͼƬ����</span><br><span class="line">body &#123;</span><br><span class="line">    background:url(/images/background.png);</span><br><span class="line">    background-repeat: no-repeat;</span><br><span class="line">    background-attachment: fixed; //���ظ�</span><br><span class="line">    background-size: cover;       //���</span><br><span class="line">    background-position: 50% 20%; //�������ã��ٷֱ�ԽС��ͼƬ���Ŵ�</span><br><span class="line">&#125;</span><br><span class="line">//���µ�͸����</span><br><span class="line">.content-wrap &#123;</span><br><span class="line">  opacity: 0.9;</span><br><span class="line">&#125;</span><br><span class="line">//��ҳ����ı�����ɫ</span><br><span class="line">.site-brand-container &#123;</span><br><span class="line">    background: #50616d;</span><br><span class="line">&#125;</span><br><span class="line">//��ҳ�������ɫ������</span><br><span class="line">.site-meta .site-title &#123;</span><br><span class="line">    font-weight: bold;</span><br><span class="line">&#125;</span><br><span class="line">//��ҳ�����Ľ�����</span><br><span class="line">.headband &#123;</span><br><span class="line">    background: #eea2a4;</span><br><span class="line">&#125;</span><br><span class="line">//�˵���͸����</span><br><span class="line">.header-inner &#123;</span><br><span class="line">  background: rgba(255,255,255,0.9);</span><br><span class="line">&#125;</span><br><span class="line">//�������͸����</span><br><span class="line">.sidebar &#123;</span><br><span class="line">    opacity: 0.9;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="������������������"><a href="#������������������" class="headerlink" title="������������������"></a>������������������</h3><h4 id="1-�½���kҳ"><a href="#1-�½���kҳ" class="headerlink" title="1. �½���ǩҳ"></a>1. �½���ǩҳ</h4><blockquote>
+<p>���½���ǩҳtagsΪ��������ҳ�����ơ�</p>
+</blockquote>
+<p>��<strong>���������ļ�</strong>������menu��ȥ��tagsǰ��#������ɰ��˷�������ѡ������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: / || home</span><br><span class="line">  #about: /about/ || user</span><br><span class="line">  tags: /tags/ || tags</span><br><span class="line">  #categories: /categories/ || th</span><br><span class="line">  archives: /archives/ || archive</span><br><span class="line">  #schedule: /schedule/ || calendar</span><br><span class="line">  #sitemap: /sitemap.xml || sitemap</span><br><span class="line">  #commonweal: /404/ || heartbeat</span><br></pre></td></tr></table></figure>
+
+<p>��Git Bash��cd��վ���Ŀ¼����������ָ���½��ļ���</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n page tags</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;tags&#x2F;index.md������type������ָ�����ɵ��ļ��л���Ĭ�ϵ��ļ�</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: tags</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>menu�� <em><strong>tags</strong></em>����Ӧ <em><strong>source&#x2F;tags&#x2F;</strong></em></p>
+<p>���磺����: &#x2F;guestbook&#x2F; || fa fa-book����Ӧ<em><strong>source&#x2F;guestbook&#x2F;</strong></em></p>
+</blockquote>
+<h4 id="2-�˵������������l"><a href="#2-�˵������������l" class="headerlink" title="2. �˵������������ɫ"></a>2. �˵������������ɫ</h4><p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��variablesǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  variable: source/_data/variables.styl</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data���½�variables.swig����������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//���Ĳ˵��������������ɫ//236, 155, 173</span><br><span class="line">$menu-item-bg-color           = rgba(248, 105, 129, .4);</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/302b1d5356483076c0a66dce143a49f9.png#pic_center" alt="xxx"></p>
+<h4 id="3-��k-x2F-����-x2F-�鵵��������ʾ"><a href="#3-��k-x2F-����-x2F-�鵵��������ʾ" class="headerlink" title="3. ��ǩ&#x2F;����&#x2F;�鵵��������ʾ"></a>3. ��ǩ&#x2F;����&#x2F;�鵵��������ʾ</h4><p>��<strong>���������ļ�</strong>������menu_settings</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">menu_settings:</span><br><span class="line">  icons: true # �Ƿ���ʾͼ��</span><br><span class="line">  badges: true # �Ƿ���ʾ����</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ����<code>�˵������������ɫ</code></p>
+<h4 id="4-�DZ�"><a href="#4-�DZ�" class="headerlink" title="4. �Ǳ�"></a>4. �Ǳ�</h4><p>��<a href="https://tholman.com/github-corners/">https://tholman.com/github-corners/</a> ������ϲ������ʽ</p>
+<p>��themes&#x2F;next&#x2F;layout&#x2F;_layout.swig����<code>&lt;div class=&quot;headband&quot;&gt;&lt;/div&gt;</code>�����Ӹ��Ƶ�����</p>
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/b94da7df612a02b8dec5010693a1d840.png#pic_center" alt="xxx"></p>
+<h4 id="4-���԰�"><a href="#4-���԰�" class="headerlink" title="4. ���԰�"></a>4. ���԰�</h4><blockquote>
+<p>���԰�ʹ�õ�ǰ���ǣ��Ѿ����������۲��-valine�����������۲��</p>
+</blockquote>
+<p>��Git Bash��cd��վ���Ŀ¼����������ָ���½�page</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new page guestbook</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;guestbook&#x2F;index.md������type��</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: �������԰�</span><br><span class="line">date: 2022-02-18 20:04:25</span><br><span class="line">type: &quot;guestbook&quot;</span><br><span class="line">---</span><br><span class="line"># ��ӭ�����ҵĲ��ͣ�</span><br><span class="line"></span><br><span class="line">&gt; ��ӭ���������ԣ�</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>���������ļ�</strong>������menu���������԰�</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  ����: /guestbook/ || fa fa-book</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/bbb3dbe82a07d1f48817e8cad31340b5.png#pic_center" alt="xxx"></p>
+<h3 id="�����������������"><a href="#�����������������" class="headerlink" title="�����������������"></a>�����������������</h3><h4 id="1-ͷ������"><a href="#1-ͷ������" class="headerlink" title="1. ͷ������"></a>1. ͷ������</h4><p>��<strong>���������ļ�</strong>������avatar</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">avatar:</span><br><span class="line">  url: /images/avatar.jpg</span><br><span class="line">  # �Ƿ�����ΪԲ��</span><br><span class="line">  rounded: false</span><br><span class="line">  # �Ƿ��������ʱ��ת</span><br><span class="line">  rotated: false</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/8549ed6c0ec01a8f9f1a1c245ce9bdbb.png#pic_center" alt="xxx"></p>
+<h4 id="2-���������ʾ"><a href="#2-���������ʾ" class="headerlink" title="2. ���������ʾ"></a>2. ���������ʾ</h4><p>��<strong>���������ļ�</strong>������scrollpercent����Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">back2top:</span><br><span class="line">  enable: true</span><br><span class="line">  # Back to top in sidebar.</span><br><span class="line">  sidebar: false</span><br><span class="line">  # Scroll percent label in b2t button.</span><br><span class="line">  scrollpercent: true</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-��������Local-Search"><a href="#3-��������Local-Search" class="headerlink" title="3. ��������Local Search"></a>3. ��������Local Search</h4><p>��Git Bash��cd��վ���Ŀ¼����װ<em><strong>hexo-generator-searchdb</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-searchdb --save</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>վ�������ļ�</strong>��ĩβ������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># ��������</span><br><span class="line">search:</span><br><span class="line">  path: search.xml</span><br><span class="line">  field: post</span><br><span class="line">  format: html</span><br><span class="line">  limit: 10000</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>���������ļ�</strong>������local_search����Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  # -1�г����У��˴������г�3</span><br><span class="line">  top_n_per_article: 3</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/159497d396ff76d91048823b13c65594.png#pic_center" alt="xxx"></p>
+<h4 id="4-��������������"><a href="#4-��������������" class="headerlink" title="4. ��������������"></a>4. ��������������</h4><p>������������ƣ��ҵ���Ҫ���ӵĸ�����赥�����<strong>��������������</strong></p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/8312aed2611f485a70613a90e49cfb3d.png#pic_center" alt="���������ͼƬ����"></p>
+<p>ѡ��ߴ�Ͳ���ģʽ��Ȼ���ƴ���</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/f9f8c4b476a5042af7e861e13ba7d571.png#pic_center" alt="xxx"></p>
+<p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��headǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  sidebar: source/_data/sidebar.swig</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data���½�sidebar.swig����������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ������������������� --&gt;</span><br><span class="line">&lt;div id=&quot;music163player&quot;&gt;</span><br><span class="line">  &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=280 height=52 src=&quot;//music.163.com/outchain/player?type=0&amp;id=3099434842&amp;auto=0&amp;height=32&quot;&gt;&lt;/iframe&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="���g�������������"><a href="#���g�������������" class="headerlink" title="���ģ�������������"></a>���ģ�������������</h3><h4 id="1-����������Ӱ"><a href="#1-����������Ӱ" class="headerlink" title="1. ����������Ӱ"></a>1. ����������Ӱ</h4><p>��source&#x2F;_data&#x2F;styles.styl��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//��ҳ����������ӰЧ��</span><br><span class="line">.main-inner .post-block &#123;</span><br><span class="line">    border-radius: 10px;</span><br><span class="line">    -webkit-box-shadow: 3px 3px 7px rgba(192, 111, 152, 1);</span><br><span class="line">    -moz-box-shadow: 3px 3px 7px rgba(238, 162, 164, .5);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-������ʽ�޸�"><a href="#2-������ʽ�޸�" class="headerlink" title="2. ������ʽ�޸�"></a>2. ������ʽ�޸�</h4><p>��source&#x2F;_data&#x2F;styles.styl��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//���������еĳ�������ɫ</span><br><span class="line">.post-body p a &#123;</span><br><span class="line">    color: #eea2a4;</span><br><span class="line">    border-bottom: none;</span><br><span class="line">    &amp;:hover &#123;</span><br><span class="line">        color: #0593d3;</span><br><span class="line">        text-decoration: underline;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-���µײ�-�޸�"><a href="#3-���µײ�-�޸�" class="headerlink" title="3. ���µײ�#�޸�"></a>3. ���µײ�#�޸�</h4><p>��<strong>���������ļ�</strong>������tag_icon����Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tag_icon: true</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/fcce00f282e74dbf2085499b52237781.png#pic_center" alt="xxx"></p>
+<h4 id="4-���¼��ܷ���"><a href="#4-���¼��ܷ���" class="headerlink" title="4. ���¼��ܷ���"></a>4. ���¼��ܷ���</h4><p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��headǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  head: source/_data/head.swig</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data���½�head.swig����������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;script&gt; </span><br><span class="line"> (function()&#123;</span><br><span class="line">        if(&#x27;&#123;&#123; page.password &#125;&#125;&#x27;)&#123;</span><br><span class="line">            if (prompt(&#x27;��������������&#x27;) !== &#x27;&#123;&#123; page.password &#125;&#125;&#x27;)&#123;</span><br><span class="line">                alert(&#x27;�������&#x27;);</span><br><span class="line">                history.back();</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;)();</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+
+<p>����Ҫ���ܵ����µ�front-matter�����password</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: Hello World</span><br><span class="line">categories:</span><br><span class="line">- Diary</span><br><span class="line">password: 123456</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h4 id="5-����ͳ�ƺ��K�ʱ��"><a href="#5-����ͳ�ƺ��K�ʱ��" class="headerlink" title="5. ����ͳ�ƺ��Ķ�ʱ��"></a>5. ����ͳ�ƺ��Ķ�ʱ��</h4><p>��Git Bash��cd��վ���Ŀ¼����װ<em><strong>hexo-symbols-count-time</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-symbols-count-time --save</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>վ�������ļ�</strong>��ĩβ������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">symbols_count_time:</span><br><span class="line">  symbols: true              # �Ƿ�����</span><br><span class="line">  time: true                 # �����Ķ�ʱ��</span><br><span class="line">  total_symbols: true        # ҳ�Ų�����������������</span><br><span class="line">  total_time: true           # ҳ�Ų������������ӵĹ����Ķ�ʱ��</span><br><span class="line">  exclude_codeblock: false</span><br><span class="line">  awl: 4                     # ƽ���ֳ�</span><br><span class="line">  wpm: 275                   # ÿ���ӵ�ƽ��������</span><br><span class="line">  suffix: &quot;mins.&quot;</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>���������ļ�</strong>������symbols_count_time</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">symbols_count_time:</span><br><span class="line">  separated_meta: false      # �Էָ�����ʾ���ʼ����͹��ƶ�ȡʱ��</span><br><span class="line">  item_text_post: true       # ��ʾ���ʼ����͹����Ķ�ʱ����ı�����</span><br><span class="line">  item_text_total: false     # ��ҳ�Ų�����ʾ���ʼ����͹����Ķ�ʱ����ı�����</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/6a387d22e761247c406bdc08841ae7ff.png#pic_center" alt="xxx"></p>
+<h4 id="6-�����o�"><a href="#6-�����o�" class="headerlink" title="6. �����ö�"></a>6. �����ö�</h4><p>��Git Bash��cd��վ���Ŀ¼��ж��<em><strong>hexo-generator-index</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-generator-index --save</span><br></pre></td></tr></table></figure>
+
+<p>��װ<em><strong>hexo-generator-index-pin-top</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-index-pin-top --save</span><br></pre></td></tr></table></figure>
+
+<p>ʹ��ʱ��ֻ��Ҫ���������µ�Front-matter�����ӡ����ö�ƪ����ʱ��ֵ�������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">top: true</span><br><span class="line">����</span><br><span class="line">top: ��ֵ</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>�����ö�ͼ��</p>
+<p>��&#x2F;themes&#x2F;next&#x2F;layout&#x2F;_macro&#x2F;post.swig�ļ�����<code>&lt;div class=&quot;post-meta&quot;&gt;</code>�·���������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% if post.top %&#125;</span><br><span class="line">    &lt;i class=&quot;fa fa-thumb-tack&quot;&gt;&lt;/i&gt;</span><br><span class="line">    &lt;span style=&quot;color:#50616d;font-weight:bold;&quot;&gt;TOP&lt;/span&gt;</span><br><span class="line">    &lt;span class=&quot;post-meta-divider&quot;&gt;|&lt;/span&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/44ba5f9468ad9a77e00878a82b837be4.png#pic_center" alt="xxx"></p>
+<h4 id="7-ժҪ��ʾ"><a href="#7-ժҪ��ʾ" class="headerlink" title="7. ժҪ��ʾ"></a>7. ժҪ��ʾ</h4><p>��Git Bash��cd��վ���Ŀ¼����װ<em><strong>hexo-excerpt</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-excerpt --save</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>վ�������ļ�</strong>��ĩβ������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">excerpt:</span><br><span class="line">  depth: 4 #��������,Ҳ���ǰ����������</span><br><span class="line">  excerpt_excludes: []</span><br><span class="line">  more_excludes: []</span><br><span class="line">  hideWholePostExcerpts: true</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/9b4b14c7d72e5e0d01322a04ed65044d.png#pic_center" alt="���������ͼƬ����"></p>
+<h4 id="8-����iβ���ӷָ���"><a href="#8-����iβ���ӷָ���" class="headerlink" title="8. ����ĩβ���ӷָ���"></a>8. ����ĩβ���ӷָ���</h4><p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��postBodyEndǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  postBodyEnd: source/_data/post-body-end.swig</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data���½�post-body-end.swig����������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ����ĩβ�ָ��� --&gt;</span><br><span class="line">&lt;div&gt;</span><br><span class="line">    &lt;hr/&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+
+<h4 id="9-����鸴��ѡ��"><a href="#9-����鸴��ѡ��" class="headerlink" title="9. ����鸴��ѡ��"></a>9. ����鸴��ѡ��</h4><p>��<strong>���������ļ�</strong>������codeblock</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">codeblock:</span><br><span class="line"># ���ô��������</span><br><span class="line">highlight_theme: normal</span><br><span class="line">copy_button:</span><br><span class="line">    enable: true</span><br><span class="line">    # �Ƿ���ʾ���ƽ��</span><br><span class="line">    show_result: true</span><br><span class="line">    # �������: default | flat | mac</span><br><span class="line">    style: default</span><br></pre></td></tr></table></figure>
+
+<h4 id="10-���������޸�"><a href="#10-���������޸�" class="headerlink" title="10. ���������޸�"></a>10. ���������޸�</h4><blockquote>
+<p>hexo-next��������Ĭ�ϵ����ɹ����ǣ�<code>:year/:month/:day/:title</code>�������</p>
+</blockquote>
+<p>��Git Bash��cd��վ���Ŀ¼����װ<em><strong>hexo-abbrlink</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+
+<p>���ǰ�װ���ɹ�������ʹ��cnpm����װ<em><strong>cnpm</strong></em>���ٰ�װ<em><strong>hexo-abbrlink</strong></em></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>վ�������ļ�</strong>���޸���������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">permalink: posts/:abbrlink/</span><br><span class="line">abbrlink:</span><br><span class="line">    alg: crc16   #�㷨�� crc16(default) and crc32</span><br><span class="line">    rep: dec     #���ƣ� dec(default) and hex</span><br></pre></td></tr></table></figure>
+
+<h4 id="11-���°�E��Ϣ"><a href="#11-���°�E��Ϣ" class="headerlink" title="11. ���°�Ȩ��Ϣ"></a>11. ���°�Ȩ��Ϣ</h4><p>��<strong>���������ļ�</strong>������creative_commons��post��Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">creative_commons:</span><br><span class="line">  license: by-nc-sa</span><br><span class="line">  sidebar: false</span><br><span class="line">  post: true</span><br><span class="line">  language:</span><br></pre></td></tr></table></figure>
+
+<h4 id="12-�����Ӳ��-�y���"><a href="#12-�����Ӳ��-�y���" class="headerlink" title="12. �����Ӳ��-�ÿ���"></a>12. �����Ӳ��-�ÿ���</h4><p>��<strong>���������ļ�</strong>������busuanzi_count</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">busuanzi_count:</span><br><span class="line">  enable: true</span><br><span class="line">  total_visitors: true</span><br><span class="line">  total_visitors_icon: fa fa-user</span><br><span class="line">  total_views: true</span><br><span class="line">  total_views_icon: fa fa-eye</span><br><span class="line">  post_views: true</span><br><span class="line">  post_views_icon: fa fa-eye</span><br></pre></td></tr></table></figure>
+
+<h4 id="13-���͹���"><a href="#13-���͹���" class="headerlink" title="13. ���͹���"></a>13. ���͹���</h4><p>��<strong>���������ļ�</strong>������busuanzi_count</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">reward_settings:</span><br><span class="line">  enable: true</span><br><span class="line">  animation: false</span><br><span class="line">  comment: ���ǿ���ˬ�ˣ�������Ǯ��! # ������ʾ������</span><br><span class="line">reward:</span><br><span class="line">  wechatpay: /images/wechatpay.png # ΢���տ����ͼƬ</span><br><span class="line">  alipay: /images/alipay.png       # ֧�����տ��ͼƬ</span><br></pre></td></tr></table></figure>
+
+<h4 id="14-���۲��-valine"><a href="#14-���۲��-valine" class="headerlink" title="14. ���۲��-valine"></a>14. ���۲��-valine</h4><p>ע��Leancloud�˺ţ�<a href="https://console.leancloud.cn/login">https://console.leancloud.cn/login</a></p>
+<p>ע����ɺ�������̨������Ӧ�ã�Ĭ�Ͽ����漴��</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/7618bdf018a4845d86d85b71d691cf7c.png#pic_center" alt="���������ͼƬ����"></p>
+<p>������ɺ󣬵������</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/a22cecbfc5195baf563732c1a27f2f8a.png#pic_center" alt="���������ͼƬ����"></p>
+<p>���Ӧ��ƾ֤������AppID��AppKey</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/7f9f6443723518185341374c2c69619b.png#pic_center" alt="���������ͼƬ����"></p>
+<p>�����ȫ���ģ������Լ�������</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/17a788fc57ab0d843831c956a28af42e.png#pic_center" alt="���������ͼƬ����"></p>
+<p>��<strong>���������ļ�</strong>������valine����Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">comments:</span><br><span class="line">  style: tabs # ����������ʾ����ʽ</span><br><span class="line">  active: valine # �������۵Ĳ��</span><br><span class="line">valine:</span><br><span class="line">  enable: true</span><br><span class="line">  appid: # ��д���渴�Ƶ�AppID</span><br><span class="line">  appkey: # ��д���渴�Ƶ�AppKey</span><br><span class="line">  placeholder: Welcome to comment # ��д���ۿ�����ʾ������</span><br><span class="line">  avatar: robohash # �����ߵ�Ĭ��ͷ��</span><br><span class="line">  pageSize: 7 # ÿҳ��ʾ����������</span><br><span class="line">  visitor: false # �Ƿ���ʾ�Ķ�����������busuanzi���������ر�</span><br><span class="line">  recordIP: true # �Ƿ���ʾ������IP</span><br></pre></td></tr></table></figure>
+
+<h4 id="15-����-x2F-ҳ�����۹����Ƿ���"><a href="#15-����-x2F-ҳ�����۹����Ƿ���" class="headerlink" title="15. ����&#x2F;ҳ�����۹����Ƿ���"></a>15. ����&#x2F;ҳ�����۹����Ƿ���</h4><p>������Front-matter�У�����comments����</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: categories</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">comments: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h3 id="���壩�ײ���������"><a href="#���壩�ײ���������" class="headerlink" title="���壩�ײ���������"></a>���壩�ײ���������</h3><h4 id="1-o����������"><a href="#1-o����������" class="headerlink" title="1. ǿ����������"></a>1. ǿ����������</h4><p>��<strong>���������ļ�</strong>������powered����Ϊfalse</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Powered by Hexo &amp; NexT</span><br><span class="line">powered: false</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-��������"><a href="#2-��������" class="headerlink" title="2. ��������"></a>2. ��������</h4><p>��<strong>���������ļ�</strong>������footer���������þ�������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">footer:</span><br><span class="line">  since: 2019 #��վʱ��</span><br><span class="line">  icon:</span><br><span class="line">    name: fa fa-heart   #FontAwesomeͼ��</span><br><span class="line">    animated: true         #ͼ���Ƿ�����</span><br><span class="line">    color: &quot;#808080&quot;     #ͼ����ɫ</span><br><span class="line">  copyright:  #û�����õĻ�Ĭ����ʾ����</span><br><span class="line">  powered:</span><br><span class="line">    enable: false #�Ƿ���ʾ Powered by hexo</span><br><span class="line">    version: false #�Ƿ���ʾHexo�汾</span><br><span class="line">  theme:</span><br><span class="line">    enable: false #�Ƿ���ʾ������Ϣ</span><br><span class="line">    version: false #�Ƿ���ʾ����汾</span><br><span class="line">  beian:</span><br><span class="line">    enable: false #�Ƿ���ʾ��վ������Ϣ</span><br><span class="line">    icp:</span><br></pre></td></tr></table></figure>
+
+<h3 id="��������������"><a href="#��������������" class="headerlink" title="��������������"></a>��������������</h3><h4 id="1-������Ч"><a href="#1-������Ч" class="headerlink" title="1. ������Ч"></a>1. ������Ч</h4><p>��<strong>���������ļ�</strong>������pace����Ϊtrue</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pace:</span><br><span class="line">  enable: true</span><br><span class="line">  # ��ʽ�б�����������ļ�</span><br><span class="line">  theme: bounce</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-��l��k��"><a href="#2-��l��k��" class="headerlink" title="2. ��ɫ��ǩ��"></a>2. ��ɫ��ǩ��</h4><p>��next&#x2F;source&#x2F;js���½�tag-color.js��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var alltags = document.getElementsByClassName(&#x27;tag-cloud-tags&#x27;);</span><br><span class="line">var tags = alltags[0].getElementsByTagName(&#x27;a&#x27;);</span><br><span class="line">for (var i = tags.length - 1; i &gt;= 0; i--) &#123;</span><br><span class="line">    var r=Math.floor(Math.random()*75+130);</span><br><span class="line">    var g=Math.floor(Math.random()*75+100);</span><br><span class="line">    var b=Math.floor(Math.random()*75+80);</span><br><span class="line">    tags[i].style.background = &quot;rgb(&quot;+r+&quot;,&quot;+g+&quot;,&quot;+b+&quot;)&quot;;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data&#x2F;styles.styl��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/*-------��ɫ��ǩ��-------*/</span><br><span class="line">.tag-cloud-tags&#123;</span><br><span class="line">    /*font-family: Helvetica, Tahoma, Arial;*/</span><br><span class="line">    /*font-weight: 100;*/</span><br><span class="line">    text-align: center;</span><br><span class="line">    counter-reset: tags;</span><br><span class="line">&#125;</span><br><span class="line">.tag-cloud-tags a&#123;</span><br><span class="line">    border-radius: 6px;</span><br><span class="line">    padding-right: 5px;</span><br><span class="line">    padding-left: 5px;</span><br><span class="line">    margin: 8px 5px 0px 0px;</span><br><span class="line">&#125;</span><br><span class="line">.tag-cloud-tags a:before&#123;</span><br><span class="line">    content: &quot;?&quot;;</span><br><span class="line">&#125;</span><br><span class="line">.tag-cloud-tags a:hover&#123;</span><br><span class="line">    box-shadow: 0px 5px 15px 0px rgba(0,0,0,.4);</span><br><span class="line">    transform: scale(1.1);</span><br><span class="line">    /*box-shadow: 10px 10px 15px 2px rgba(0,0,0,.12), 0 0 6px 0 rgba(104, 104, 105, 0.1);*/</span><br><span class="line">    transition-duration: 0.15s;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>��next&#x2F;layout&#x2F;page.swig����<code>&lt;div class=&quot;tag-cloud&quot;&gt;</code>������ǩ������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ��ɫ��ǩҳ --&gt;</span><br><span class="line">          &lt;script type=&quot;text/javascript&quot; src=&quot;/js/tag-color.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/e48491d389d0a57f310789128b240c91.png#pic_center" alt="���������ͼƬ����"></p>
+<h4 id="3-�����������Ч"><a href="#3-�����������Ч" class="headerlink" title="3. �����������Ч"></a>3. �����������Ч</h4><p>��&#x2F;themes&#x2F;next&#x2F;source&#x2F;js&#x2F;src���½��ļ� clicklove.js��������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">!function(e,t,a)&#123;function n()&#123;c(&quot;.heart&#123;width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);&#125;.heart:after,.heart:before&#123;content: &#x27;&#x27;;width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;&#125;.heart:after&#123;top: -5px;&#125;.heart:before&#123;left: -5px;&#125;&quot;),o(),r()&#125;function r()&#123;for(var e=0;e&lt;d.length;e++)d[e].alpha&lt;=0?(t.body.removeChild(d[e].el),d.splice(e,1)):(d[e].y--,d[e].scale+=.004,d[e].alpha-=.013,d[e].el.style.cssText=&quot;left:&quot;+d[e].x+&quot;px;top:&quot;+d[e].y+&quot;px;opacity:&quot;+d[e].alpha+&quot;;transform:scale(&quot;+d[e].scale+&quot;,&quot;+d[e].scale+&quot;) rotate(45deg);background:&quot;+d[e].color+&quot;;z-index:99999&quot;);requestAnimationFrame(r)&#125;function o()&#123;var t=&quot;function&quot;==typeof e.onclick&amp;&amp;e.onclick;e.onclick=function(e)&#123;t&amp;&amp;t(),i(e)&#125;&#125;function i(e)&#123;var a=t.createElement(&quot;div&quot;);a.className=&quot;heart&quot;,d.push(&#123;el:a,x:e.clientX-5,y:e.clientY-5,scale:1,alpha:1,color:s()&#125;),t.body.appendChild(a)&#125;function c(e)&#123;var a=t.createElement(&quot;style&quot;);a.type=&quot;text/css&quot;;try&#123;a.appendChild(t.createTextNode(e))&#125;catch(t)&#123;a.styleSheet.cssText=e&#125;t.getElementsByTagName(&quot;head&quot;)[0].appendChild(a)&#125;function s()&#123;return&quot;rgb(&quot;+~~(255*Math.random())+&quot;,&quot;+~~(255*Math.random())+&quot;,&quot;+~~(255*Math.random())+&quot;)&quot;&#125;var d=[];e.requestAnimationFrame=function()&#123;return e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.oRequestAnimationFrame||e.msRequestAnimationFrame||function(e)&#123;setTimeout(e,1e3/60)&#125;&#125;(),n()&#125;(window,document);</span><br></pre></td></tr></table></figure>
+
+<p>��<strong>���������ļ�</strong>������custom_file_path��ȥ��body-endǰ���#</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">custom_file_path:</span><br><span class="line">  bodyEnd: source/_data/body-end.swig</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;_data���½�body-end.swig����������������</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!-- ҳ����С���� --&gt;</span><br><span class="line">&lt;script type=&quot;text/javascript&quot; src=&quot;/js/clicklove.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+
+<p>Ч����ͼ</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/041ed57702edc96875224420ddd216dc.png#pic_center" alt="���������ͼƬ����"></p>
+<h4 id="4-404ҳ��"><a href="#4-404ҳ��" class="headerlink" title="4. 404ҳ��"></a>4. 404ҳ��</h4><p>��Git Bash��cd��վ���Ŀ¼����������ָ���½�page</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n page 404</span><br></pre></td></tr></table></figure>
+
+<p>��source&#x2F;404&#x2F;index.md������front-matter</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">layout: false</span><br><span class="line">comments: false</span><br><span class="line">title: 404</span><br><span class="line">permalink: /404</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>��<a href="https://404.life/">https://404.life/</a> ��ѡ��һ��ϲ����404ҳ�档������վ����</p>
+<p>��html�������index.md�У�ע�ⲻ���п��С�����п��У�������������<code>{% raw %}</code>��<code>{% endraw %}</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">layout: false</span><br><span class="line">---</span><br><span class="line">&#123;% raw %&#125;</span><br><span class="line">xxxxxxxxxxxxx</span><br><span class="line">xx HTML���� xx</span><br><span class="line">xxxxxxxxxxxxx</span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>������css��js�����Է���֮ǰ���ɵ�404Ŀ¼�£���index.mdͬ����Ȼ���޸�html������</p>
+<p>���Ǳ��ط�������������ֶ�����<a href="http://localhost:4000/404/">http://localhost:4000/404/</a></p>
+<p>����Զ�̷������������ַ���Զ�ת����ҳ��</p>
+<hr>
+<p><strong>���ο����ӡ�</strong>��</p>
+<ul>
+<li><a href="https://blog.csdn.net/nightmare_dimple/article/details/86661502">https://blog.csdn.net/nightmare_dimple/article/details/86661502</a></li>
+<li><a href="https://blog.csdn.net/qq_41518277/article/details/101766036">https://blog.csdn.net/qq_41518277/article/details/101766036</a></li>
+<li><a href="https://blog.csdn.net/vpqtxzmzezeqjj9977/article/details/123010779">https://blog.csdn.net/vpqtxzmzezeqjj9977/article/details/123010779</a></li>
+<li><a href="https://blog.csdn.net/steptoboss/article/details/108158067">https://blog.csdn.net/steptoboss/article/details/108158067</a></li>
+<li><a href="https://blog.csdn.net/qq_29654777/article/details/108225034">https://blog.csdn.net/qq_29654777/article/details/108225034</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>���Ա�ǩ</tag>
+      </tags>
+  </entry>
 </search>
