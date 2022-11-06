@@ -11,19 +11,20 @@
 <h5 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h5><p>由一系列按特定顺序排列的元素组成，用方括号【】标识</p>
 <p>其实MySQL有两种来连接方式，一种是通过TCP&#x2F;IP，就是用-h参数指定要连接的mysqlserverI的IP，另一种是套接字socket，在这里就是mysql.sock文件，其作用是程序与mysqlserver处于同一台机器，发起本地连接时可用。例如你无须定义连接host的具体IP地址，只要为空或localhost就可以，即host为localhost,127.0.0.1时自动使用mysql.sock<br>115.199.174.216</p>
 <p>其实MySQL有两种来连接方式，一种是通过TCP&#x2F;IP，就是用-h参数指定要连接的mysqlserverI的IP，另一种是套接字socket，在这里就是mysql.sock文件，其作用是程序与mysqlserver处于同一台机器，发起本地连接时可用。例如你无须定义连接host的具体IP地址，只要为空或localhost就可以，即host为localhost,127.0.0.1时自动使用mysql.sock<br>115.199.174.216</p>
-<p><img src="G:\Users\destiny\Desktop\导航.png" alt="导航.png"></p>
+<p><img src="/2022/10/16/CCC/Users\destiny\Desktop\导航.png" alt="导航.png"></p>
 ]]></content>
   </entry>
   <entry>
-    <title>test11</title>
-    <url>/2022/10/30/test11/</url>
-    <content><![CDATA[<p>工具：冲击钻、钻头、内六角的扳手&#x2F;批头、承重墙、安全绳，防护软垫</p>
+    <title>你好啊</title>
+    <url>/2022/11/06/%E4%BD%A0%E5%A5%BD%E5%95%8A/</url>
+    <content><![CDATA[<p><img src="logo.jpg" alt="logo"></p>
+<p>工具：冲击钻、钻头、内六角的扳手&#x2F;批头、承重墙、安全绳，防护软垫</p>
 <p>1.用电锤在墙上钻上一个3-4厘米的洞</p>
 <p>2.用内胀钉轻轻敲入洞内与墙面齐</p>
 <p>3.用一个直径约9毫米的钢锥把内胀钉撑开</p>
 <p>4.用螺丝穿过岩石拧入内胀钉.用六角扳手拧至岩点不滑动.</p>
 <p>1、指力板</p>
-<img src="file:///G:/Users/destiny/Documents/My Knowledge/temp/9d41764c-bc04-4f53-b948-b99ae8fca362/128/index_files/c7bc3d05-ff76-459a-b946-db71fb8f6f60.jpg" title="" alt="" data-align="inline">
+<img src="file:///G:/Users/destiny/Documents/My Knowledge/temp/9d41764c-bc04-4f53-b948-b99ae8fca362/128/index_files/c7bc3d05-ff76-459a-b946-db71fb8f6f60.jpg" title alt data-align="inline">
 
 <p>2、握力板</p>
 <p>![](file:&#x2F;&#x2F;&#x2F;G:&#x2F;Users&#x2F;destiny&#x2F;Documents&#x2F;My Knowledge&#x2F;temp&#x2F;9d41764c-bc04-4f53-b948-b99ae8fca362&#x2F;128&#x2F;index_files&#x2F;504b94a6-fa3b-4fa1-b04a-b43951d0f6e6.jpg)</p>
@@ -43,10 +44,31 @@
 <p><strong>DIY攀岩墙需要多少钱？</strong></p>
 <p>正常只需要买岩点和膨胀螺丝的钱。我家36个岩点小中混搭，带膨胀螺丝和运费一共360多。</p>
 <p>![](file:&#x2F;&#x2F;&#x2F;G:&#x2F;Users&#x2F;destiny&#x2F;Documents&#x2F;My Knowledge&#x2F;temp&#x2F;9d41764c-bc04-4f53-b948-b99ae8fca362&#x2F;128&#x2F;index_files&#x2F;0.9094589445838703.png)</p>
+<p>image.png<br>Markdown All in One</p>
+<img src="11/06/%E4%BD%A0%E5%A5%BD%E5%95%8A/111.png" class title="This is an image">
+
+<p><img src="111.png" alt="你好啊"></p>
 ]]></content>
       <tags>
         <tag>标签测试</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/11/06/%E5%AF%86%E8%AF%84%E4%B8%AD%E7%9A%84%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<p><strong>1 什么是商用密码</strong></p>
+<p><img src="/2022/11/06/%E5%AF%86%E8%AF%84%E4%B8%AD%E7%9A%84%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9F%A5%E8%AF%86/Users\destiny\AppData\Roaming\marktext\images\2022-11-06-21-14-56-image.png"></p>
+<p>《中华人民共和国密码法》明确我国密码主要分为核心密码、普通密码和商用密码三大类。其中，核心密码、普通密码用于保护国家秘密信息。<strong>商用密码指的是对不属于国家秘密内容的信息进行加密保护、安全认证所使用的密码技术、密码产品和密码服务。公民、法人和其他组织可以依法使用商用密码保护网络与信息安全。</strong></p>
+<p>商用密码产品指的是采用密码技术对不涉及国家秘密内容的信息进行加密保护或安全认证的产品，即承载密码技术、实现密码功能的实体。</p>
+
+
+<p><strong>2 商用密码产品</strong></p>
+<p><strong>商用密码产品目前<strong><strong>按形态</strong></strong>划分为6类：密码软件、密码芯片、密码模块、密码板卡、密码整机、密码系统</strong></p>
+<p><img src="/2022/11/06/%E5%AF%86%E8%AF%84%E4%B8%AD%E7%9A%84%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9F%A5%E8%AF%86/Users\destiny\AppData\Roaming\marktext\images\2022-11-06-08-59-46-image.png"></p>
+<img src="file:///G:/Users/destiny/AppData/Roaming/marktext/images/2022-11-06-09-01-34-image.png" title alt data-align="inline">
+
+<p><img src="/2022/11/06/%E5%AF%86%E8%AF%84%E4%B8%AD%E7%9A%84%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9F%A5%E8%AF%86/Users\destiny\AppData\Roaming\marktext\images\2022-11-06-09-05-20-image.png"></p>
+]]></content>
   </entry>
   <entry>
     <title>test33333</title>
